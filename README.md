@@ -12,10 +12,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp;I'm working as QA automation & Manual Engineer at OPA.\
-🎓 &nbsp;I'm a Software Practical Engineer graduate with Honors from Ariel University.\
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-👀 &nbsp;I'm interested in joining a position where I can bring to light my skills and knowledge in Full Stack or QA domain.
+🌱 &nbsp; I'm working as QA automation & Manual Engineer at OPA.\
+🎓 &nbsp; I'm a Software Practical Engineer graduate with Honors from Ariel University.\
+💡 &nbsp; I like to explore new technologies and develop software solutions.\
+👀 &nbsp; I'm interested in joining a position where I can bring to light my skills and knowledge in the QA domain.
 
 
 ### 🤝🏻 &nbsp;Connect with Me
